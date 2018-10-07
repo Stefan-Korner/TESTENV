@@ -1,0 +1,6 @@
+ACK	Acknowledge	U
+APID	Application Process ID	U
+LENGTH	Packet Length	U
+SSC	Source Sequence Count	U
+SUB_TYPE	Packet Service Sub-Type	U
+TYPE	Packet Service Type	U
